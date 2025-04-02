@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745500398892",
+    "project_id": "dkdk2-fc771",
+    "storage_bucket": "dkdk2-fc771.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745500398892:android:3d4cadb793c86fdbbf0889",
+        "android_client_info": {
+          "package_name": "com.example.dangnhapdangky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOdPOvvoUXvS35pq1AjHU-xbOvWkDgBUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
